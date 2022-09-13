@@ -26,13 +26,7 @@ Como foi eu que criei esse sistema do zero, ninguém entende melhor dele do que 
 - Tinha muitas coisas que eu ainda queria melhorar no sistema, mas devido esse contrabando desenfreado do sistema eu desanimei de fazer qualquer coisa,
   nunca tinha visto um tráfico de código nesse nível
 
-## Caso queira me pagar um salgado, manda pra esse PIX 🥰
+## Caso queira me pagar um salgado, entra [nesse site](https://onlyvanilla.vercel.app/) 🥰
 
-![Me pague um salgo](https://cdn.discordapp.com/attachments/960994256393224283/1002967141173174364/unknown.png)
-
----
-
-Copia & Cola
-00020101021126580014br.gov.bcb.pix01362fc8fd02-fa45-4ff3-80a4-1c2f3439231b52040000530398654045.005802BR5907LIVEPIX6009SAO PAULO6228052462e5539f2f224bebd40501ee6304F1C0
 
 Feito com muito esforço e sofrimento por **Vanilla#8414** ![corao](https://cdn.discordapp.com/emojis/801789753577177128.gif?size=16&quality=lossless)
