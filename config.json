@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTIwNzMxNTk1OTYxNDkzMTAzNA.GRY291.gqJ5t1AieIA-Vc6N95x1Wxzxv0EIp0mFrs4cow",
     "prefix": ".",
-    "mongo_key": "",
-    "accessToken": "",
-    "canalCategoriaCarrinho": "",
-    "canalLogs": ""
+    "mongo_key": "1204053145995714580",
+    "accessToken": "https://discord.com/api/oauth2/authorize?client_id=1207315959614931034&permissions=8&scope=bot",
+    "canalCategoriaCarrinho": "1207321406430380032",
+    "canalLogs": "1204253562561888318"
 }
